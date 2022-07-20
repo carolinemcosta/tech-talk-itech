@@ -8,8 +8,10 @@ This notebook is aimed as a gentle introduction to Data Science for engineers. I
 # Challenge
 Checkout the repo and build your own model the can beat the current accuracy score!
 
-# Installation
-To start, install the required packages with
+# Requirements
+Python 3.9
+
+Install packages with:
 
 ``pip install -r requirements.txt``
 
